@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 406bb2213deac1841ad5699e78af4e42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - winScreen: {instanceID: 0}
+  - transition: {instanceID: 0}
+  - congrats: {instanceID: 0}
+  - gold: {fileID: 588147444481151081, guid: 7081086ec1062254c9b834bc68a0d6f1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

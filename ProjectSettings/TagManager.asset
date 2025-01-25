@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - PortalB
+  - PortalO
+  - FanArea
+  - OBall
+  - BBall
+  - PortalBounce
+  - Level
+  - Launcher
+  - SwipeAnim
+  - WinScreen
+  - Failed
+  - AudioManager
+  - MusicPlayer
+  - MusicSlider
+  - SFXSlider
+  - Ad Manager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - PortalBalls
+  - IgnorePortalWall
+  - IgnoreBallWall
+  - DistortionEffect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DistortionLayer
+    uniqueID: 2675471221
+    locked: 0

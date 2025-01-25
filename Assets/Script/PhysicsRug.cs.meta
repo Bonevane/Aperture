@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 56d8c3ba761ff1646b152a333e16b346
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Ball: {fileID: 6200000, guid: 126b246ca3be7a84e8c62298eb8c5432, type: 2}
+  - Slime: {fileID: 6200000, guid: 01679b8a71a304e4da8543bc81c90f60, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
